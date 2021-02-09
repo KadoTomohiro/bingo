@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bingo"
+    }
+  },
+  "defaultProject": "bingo",
+  "cli": {
+    "analytics": false
+  }
 }
